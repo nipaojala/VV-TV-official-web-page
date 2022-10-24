@@ -1,0 +1,11 @@
+.donate-container {
+  display: flex;
+  justify-content: left;
+  padding-left: 20px;
+  align-items: center;
+  height: 250px;
+  background-color: rgb(255, 255, 255);
+}
+.donate {
+  color: aliceblue;
+}

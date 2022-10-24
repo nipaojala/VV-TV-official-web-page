@@ -9,7 +9,7 @@ import Navbar from './components/Navbar/Navbar'
 import Header from './components/Header/Header'
 import Footer from './components/Footer/Footer'
 import Music from './components/Music/Music'
-import Contact from './components/Contact/Contact'
+import Donate from './components/Donate/Donate'
 import About from './components/About/About'
 
 
@@ -27,7 +27,7 @@ function App() {
         <Route path="*" element={<Header />} />
 				<Route path="/about" element={<About/>} />
 				<Route path="/music" element={<Music/>} />
-				<Route path="/contact" element={<Contact/>} />
+				<Route path="/donate" element={<Donate/>} />
 			</Routes>
 			</div>
 			<Outlet/>

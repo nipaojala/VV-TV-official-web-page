@@ -9,10 +9,11 @@ export default function Footer () {
         Copyrighted by VV/TV
       </div>
       <div className='item2'>
-        Made by Niilo Ojala
+        Made by Niilo Ojala.
+        <a href="https://github.com/nipaojala/VV-TV-official-web-page">Code</a>
       </div>
       <div className='item3'>
-        Mene töihin
+        Contact on telegram: @matisakki
       </div>
     </div>
   )
