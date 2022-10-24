@@ -1,0 +1,40 @@
+.image {
+  background-image: url('./vvtv.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  background-color: black;
+  animation: Transition2 3s
+}
+@keyframes Transition1 {
+  from {
+    padding-bottom: 1000px;
+  }
+  to {
+    padding-bottom: 0px;
+  }
+}
+@keyframes Transition2 {
+  from {
+    padding-top: 1000px;
+  }
+  to {
+    padding-top: 0px;
+  }
+}
+@keyframes Transition3 {
+  from {
+    bottom: 1000px;
+  }
+  to {
+    bottom: 0px;
+  }
+}
+.navAnimation {
+  position: relative;
+  animation: Transition3 3s;
+  background-color: black
+}
+main {
+  background-color: black;
+}

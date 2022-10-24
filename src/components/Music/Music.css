@@ -1,0 +1,30 @@
+.music-container {
+  display: flex;
+  justify-content: center;
+}
+.animation {
+  display: flex;
+  animation: TransitionIn 2s;
+}
+.musictext {
+  width: 700px;
+  font-size: 25px;
+  color: rgb(0, 0, 0);
+  background-color: white;
+  height:230px;
+  padding: 20px;
+  align-items: center;
+
+}
+@keyframes TransitionIn {
+  from {
+    opacity: 0%;
+  }
+  to {
+    opacity: 100%;
+  }
+
+}
+audio {
+  padding-top: 20px;
+}
