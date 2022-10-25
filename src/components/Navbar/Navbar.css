@@ -28,6 +28,8 @@
     align-content: center;
     flex-direction: column;
     align-items: center;
+    padding: 10px;
+    padding-bottom: 0px;
   }
   .nav a {
     padding-bottom: 20px;
