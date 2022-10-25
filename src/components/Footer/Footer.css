@@ -1,8 +1,7 @@
 .footer-container {
   display: flex;
   background-color: #e9edebff;
-  width: 100vw;
-  margin-top: 30px;
+  width: 100%;
   justify-content: space-evenly;
   font-family: 'Courier New', Courier, monospace;
   font-weight: bold;

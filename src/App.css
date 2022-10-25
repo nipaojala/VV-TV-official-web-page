@@ -6,6 +6,14 @@
   background-color: black;
   animation: Transition2 3s
 }
+@keyframes Transition1 {
+  from {
+    padding-bottom: 1000px;
+  }
+  to {
+    padding-bottom: 0px;
+  }
+}
 @keyframes Transition2 {
   from {
     padding-top: 1000px;
@@ -34,6 +42,5 @@ main {
   .image {
     background-position: center;
     background-size: 110%;
-    height: auto;
   }
 }
