@@ -42,5 +42,6 @@ main {
   .image {
     background-position: center;
     background-size: 110%;
+    height: 800px;
   }
 }
