@@ -12,7 +12,6 @@ export default function Music () {
             <source src = {audio} type = "audio/mpeg"/>
           </audio>
         </div>
-
       </div>
     </div>
   )
