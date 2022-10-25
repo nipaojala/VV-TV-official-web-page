@@ -6,14 +6,14 @@ export default function Footer () {
   return (
     <div className='footer-container'>
       <div className='item1'>
-        Copyrighted by VV/TV
+        <p>Copyrighted by VV/TV</p>
       </div>
       <div className='item2'>
-        Made by Niilo Ojala.
+        <p>Made by Niilo Ojala.</p>
         <a href="https://github.com/nipaojala/VV-TV-official-web-page">Code</a>
       </div>
       <div className='item3'>
-        Contact on telegram: @matisakki
+        <p>Contact on telegram: @matisakki</p>
       </div>
     </div>
   )

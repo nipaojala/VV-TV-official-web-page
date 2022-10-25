@@ -13,6 +13,7 @@
   font-size: 25px;
   font-family: 'Courier New', Courier, monospace;
   transition: height 0.2s, width 0.3s;
+  overflow: hidden;
 }
 .band {
   color:black
