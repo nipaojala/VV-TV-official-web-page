@@ -6,13 +6,14 @@
   display: flex;
   animation: TransitionIn 2s;
   color: #e9edebff;
+  
 
 }
 .musictext {
   flex-direction: column;
   align-items: center;
   display: flex;
-  width: 700px;
+  text-align: center;
   font-size: 25px;
   color: rgb(0, 0, 0);
   height:230px;
