@@ -7,6 +7,7 @@ export default function Navbar () {
     <div className='links'>
       <Link to="/about">About</Link>
       <Link to="/music">Our Music</Link>
+      <Link to="/gigs">Gigs</Link>
       <Link to="/donate">Donate</Link>
     </div>
     <Outlet />

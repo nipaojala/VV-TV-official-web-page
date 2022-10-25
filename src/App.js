@@ -11,7 +11,7 @@ import Footer from './components/Footer/Footer'
 import Music from './components/Music/Music'
 import Donate from './components/Donate/Donate'
 import About from './components/About/About'
-
+import Gigs from './components/Gigs/Gigs'
 
 
 function App() {
@@ -28,6 +28,7 @@ function App() {
 				<Route path="/about" element={<About/>} />
 				<Route path="/music" element={<Music/>} />
 				<Route path="/donate" element={<Donate/>} />
+				<Route path="/gigs" element={<Gigs/>} />
 			</Routes>
 			</div>
 			<Outlet/>

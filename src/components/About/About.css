@@ -11,7 +11,7 @@
   background-color: #e9edebff;
   height: 50px;
   font-size: 25px;
-  font-family: comic;
+  font-family: 'Courier New', Courier, monospace;
   transition: height 0.2s, width 0.3s;
 }
 .band {
@@ -33,10 +33,10 @@
   color:black
 }
 .about-item:hover {
-  width: 500px;
+  width: 600px;
   height:150px
 }
 .about-item:active {
-  width: 500px;
+  width: 600px;
   height:150px
 }

@@ -5,15 +5,19 @@
 .animation {
   display: flex;
   animation: TransitionIn 2s;
+  color: #e9edebff;
+
 }
 .musictext {
+  flex-direction: column;
+  align-items: center;
+  display: flex;
   width: 700px;
   font-size: 25px;
   color: rgb(0, 0, 0);
-  background-color: #e9edebff;
   height:230px;
   padding: 20px;
-  align-items: center;
+  color: #e9edebff;
 
 }
 @keyframes TransitionIn {
@@ -27,4 +31,5 @@
 }
 audio {
   padding-top: 20px;
+  display: flex;
 }
