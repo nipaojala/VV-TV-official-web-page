@@ -1,11 +1,7 @@
 import './App.css'
-// eslint-disable-next-line no-unused-vars
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
-// eslint-disable-next-line no-unused-vars
-import { Outlet, Link } from 'react-router-dom'
-// eslint-disable-next-line no-unused-vars
+import { Outlet} from 'react-router-dom'
 import Navbar from './components/Navbar/Navbar'
-// eslint-disable-next-line no-unused-vars
 import Header from './components/Header/Header'
 import Footer from './components/Footer/Footer'
 import Music from './components/Music/Music'
