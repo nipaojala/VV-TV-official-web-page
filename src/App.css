@@ -38,3 +38,9 @@
 main {
   background-color: black;
 }
+@media screen and (max-width: 600px) {
+  .image {
+    background-position: center;
+    background-size: 110%;
+  }
+}

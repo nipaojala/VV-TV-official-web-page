@@ -2,9 +2,9 @@
   display: flex;
   padding-left: 20px;
   padding-top: 10px;
-  align-items: center;
   flex-direction: column;
   color:aliceblue;
+  text-align: center;
 
   height: 250px;
   /* background-color: rgb(255, 255, 255); */

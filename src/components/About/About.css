@@ -44,5 +44,12 @@
 @media screen and (max-width: 600px) {
   .about-container {
     align-items: center;
+    text-align: center;
+  }
+  .about-item:hover {
+    width: 80%;
+  }
+  .about-item:active {
+    width: 80%;
   }
 }
