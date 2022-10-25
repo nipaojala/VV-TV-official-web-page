@@ -45,14 +45,17 @@
   .about-container {
     align-items: center;
     text-align: center;
-    height: 100%
+    height: 100%;
+    overflow:auto;
   }
   .about-item:hover {
     width: 80%;
+    height: auto;
+    overflow:auto;
   }
   .about-item:active {
     width: 80%;
-  }
-  .about-item {
+    height: auto;
+    overflow:auto;
   }
 }
