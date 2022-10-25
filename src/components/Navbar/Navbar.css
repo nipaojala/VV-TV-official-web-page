@@ -19,7 +19,7 @@
   transition: font-size 0.2s;
   padding-right: 20px;
 }
-a:hover {
+.nav a:hover {
   font-size: 38px;
 }
 @media screen and (max-width: 600px) {

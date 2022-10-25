@@ -10,7 +10,7 @@ export default function Footer () {
       </div>
       <div className='item2'>
         <p>Made by Niilo Ojala.</p>
-        <a href="https://github.com/nipaojala/VV-TV-official-web-page">Code</a>
+        <a className='githublink' href="https://github.com/nipaojala/VV-TV-official-web-page">Code</a>
       </div>
       <div className='item3'>
         <p>Contact on telegram: @matisakki</p>
