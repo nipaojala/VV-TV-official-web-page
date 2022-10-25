@@ -6,8 +6,6 @@
   display: flex;
   animation: TransitionIn 2s;
   color: #e9edebff;
-  
-
 }
 .musictext {
   flex-direction: column;

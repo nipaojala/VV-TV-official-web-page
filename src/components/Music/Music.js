@@ -7,7 +7,9 @@ export default function Music () {
     <div className='music-container'>
       <div className='animation'>
         <div className='musictext'>
-          <p>Here is our demo music. Great things coming soon! Stay tuned!</p>
+          <p>We play different finnish songs, some very known some not so known.
+            We have some changes to songs to make them more unique.</p>
+            <p>Here is our demo music. Great things coming soon! Stay tuned!</p>
           <audio controls>
             <source src = {audio} type = "audio/mpeg"/>
           </audio>
